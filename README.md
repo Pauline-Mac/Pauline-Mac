@@ -21,8 +21,8 @@ I am currently pursuing my studies in Computer Science at CY Tech, where I am wr
 
 ### Projects
 
-- **[Meteo App]((https://github.com/Pauline-Mac/Cy-meteo))**: A program that uses scripts to map meteorological events.
-- **[Project 2](https://github.com/Quentin55553/Projet-CY-Books)**: A library managment JavaFx application.
+- **[Cy Meteo](https://github.com/Pauline-Mac/Cy-meteo)**: A program that uses scripts to map meteorological events.
+- **[Cy Books](https://github.com/Quentin55553/Projet-CY-Books)**: A library managment JavaFx application.
 
 ### Contact Me
 
