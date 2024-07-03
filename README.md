@@ -14,7 +14,7 @@ I am currently pursuing my studies in Computer Science at CY Tech, where I am wr
 
 ### Skills
 
-- **Programming Languages**: Python, Java, JavaScript
+- **Programming Languages**: C, Java, Python, JavaScript
 - **Web Development**: HTML, CSS, React, Node.js
 - **Software Development**: C++, Git, SQL
 - **Cybersecurity**: Basic knowledge and enthusiastic about learning more
