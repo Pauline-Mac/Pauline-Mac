@@ -4,19 +4,24 @@
 
 ### About Me
 
-I am currently pursuing my studies in Computer Science at CY Tech, where I am wrapping up my third year and preparing to enter my fourth. My academic journey has fueled my passion for **cybersecurity**, and I am eager to gain practical experience in this field. Besides cybersecurity, I have a keen interest in **web development** and **software engineering**.
+I am currently pursuing my studies in Computer Science at CY Tech specialized in cybersecurity. My academic journey has fueled my interest for **cybersecurity**, and I am eager to gain practical experience in this field. Besides cybersecurity, I have a keen interest in **web development** and **software development**.
 
 ### Current Status
 
-- 🎓 **Education**: Computer Science Student at CY Tech
-- 🏢 **Internship**: Currently engaged in an internship to enhance my skills and knowledge
-- 🌍 **Seeking**: An overseas internship starting in April for a minimum duration of 12 weeks
+- 🎓 **Education**: Computer Science Student at CY Tech 5th year
+- 🏢 **Internship**: Thales Nederlands, Smart radar system monitoring
+- 🌍 **Seeking**: An apprenticeship in cybersecurity for september 2025
 
 ### Skills
 
-- **Programming Languages**: C, Java, Python, JavaScript
-- **Web Development**: HTML, CSS, React, Node.js
-- **Software Development**: C++, Git, SQL
+- **CI/CD**: Github, Jenkins
+- **SysOps**: Docker, Podman, Kubernetes, Ubuntu, Red Hat, Bash, Linux GNU
+- **Programming/Backend**: C, C++, Java, Python
+- **Monitoring & Observability**: Prometheus, Grafana, Node Exporter
+- **Frontend Dev**: HTML, CSS, JavaScript, React, Node.js
+- **Databases/Datastores**: PHP, MySQL
+- **IDEs**: VS code, Intellij
+- **Others/Misc**: Git, Gitlab, Postman
 - **Cybersecurity**: Basic knowledge and enthusiastic about learning more
 
 ### Projects
@@ -33,4 +38,4 @@ I am currently pursuing my studies in Computer Science at CY Tech, where I am wr
 
 - **Coding**: Always eager to learn new technologies and improve my coding skills.
 - **Travel**: Passionate about exploring new cultures and countries.
-- **Reading**: Enjoy reading about the latest trends in technology and cybersecurity.
+- **Cinema**: Enjoy watching latest movies.
